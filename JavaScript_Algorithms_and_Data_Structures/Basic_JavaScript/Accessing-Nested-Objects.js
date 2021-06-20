@@ -9,6 +9,7 @@ var myStorage = {
     }
   }
 };
+
 //var gloveBoxContents = "maps";
 var gloveBoxContents = myStorage.car.inside["glove box"];
 
