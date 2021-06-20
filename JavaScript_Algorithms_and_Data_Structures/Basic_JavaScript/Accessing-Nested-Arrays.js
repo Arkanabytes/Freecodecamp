@@ -20,5 +20,4 @@ var myPlants = [
 
 // Only change code below this line
 var secondTree = myPlants[1].list[1]; // Change this line
-
 console.log(secondTree)
