@@ -1,3 +1,4 @@
+//setup
 var myMusic = [
   {
     "artist": "Billy Joel",
