@@ -1,3 +1,4 @@
+//setup
 function testLessThan(val) {
   if (val < 25) {  // Change this line
     return "Under 25";
