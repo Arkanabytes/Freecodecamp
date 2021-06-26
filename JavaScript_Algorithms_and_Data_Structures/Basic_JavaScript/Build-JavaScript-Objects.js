@@ -1,3 +1,4 @@
+//setup
 var myDog = {
 // Only change code below this line
   "name": "Whiskers",
