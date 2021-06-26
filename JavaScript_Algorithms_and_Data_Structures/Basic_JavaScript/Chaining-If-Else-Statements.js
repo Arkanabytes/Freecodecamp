@@ -1,3 +1,4 @@
+//setup
 function testSize(num) {
   // Only change code below this line
 if (num < 5) {
