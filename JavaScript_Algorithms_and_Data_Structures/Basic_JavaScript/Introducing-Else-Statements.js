@@ -1,3 +1,4 @@
+//setup
 function testElse(val) {
   var result = "";
   // Only change code below this line
