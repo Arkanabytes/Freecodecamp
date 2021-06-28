@@ -1,3 +1,4 @@
+//setup
 function chainToSwitch(val) {
   var answer = "";
 
