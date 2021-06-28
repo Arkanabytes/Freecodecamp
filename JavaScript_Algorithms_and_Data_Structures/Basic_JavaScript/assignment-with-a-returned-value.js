@@ -1,3 +1,4 @@
+//setup
 var processed = 0;
 
 function processArg(num) {
