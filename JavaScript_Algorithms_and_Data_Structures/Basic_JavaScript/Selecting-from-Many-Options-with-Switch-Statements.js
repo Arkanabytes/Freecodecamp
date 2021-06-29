@@ -1,3 +1,5 @@
+//setup
+
 function caseInSwitch(val) {
   var answer = "";
   switch(val) {
