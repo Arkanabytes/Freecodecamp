@@ -1,3 +1,4 @@
+//setup
 function testLogicalAnd(val) {
   // Only change code below this line
 
