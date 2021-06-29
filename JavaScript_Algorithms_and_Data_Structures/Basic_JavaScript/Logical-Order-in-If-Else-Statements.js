@@ -1,3 +1,5 @@
+//setup
+
 function orderMyLogic(val) {
   if (val < 5) {
     return "Less than 5";
