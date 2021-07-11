@@ -38,6 +38,7 @@
       <button class="btn btn-block btn-danger">Delete</button>
     </div>
   </div>
+
   <p>Things cats <span class="text-danger">love:</span></p>
   <ul>
     <li>cat nip</li>
