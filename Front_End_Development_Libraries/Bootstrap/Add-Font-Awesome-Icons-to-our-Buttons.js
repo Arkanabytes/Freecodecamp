@@ -33,6 +33,7 @@
     <div class="col-xs-4">
       <button class="btn btn-block btn-primary">Like</button>
     </div>
+
     <div class="col-xs-4">
       <button class="btn btn-block btn-info">Info</button>
     </div>
