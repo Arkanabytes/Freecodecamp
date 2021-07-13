@@ -32,6 +32,7 @@
       <button class="btn btn-block btn-danger">Delete</button>
     </div>
   </div>
+
   <p>Things cats love:</p>
   <ul>
     <li>cat nip</li>
