@@ -54,6 +54,7 @@
         <label><input type="radio" name="indoor-outdoor"> Outdoor</label>
       </div>
     </div>
+
     <label><input type="checkbox" name="personality"> Loving</label>
     <label><input type="checkbox" name="personality"> Lazy</label>
     <label><input type="checkbox" name="personality"> Crazy</label>
