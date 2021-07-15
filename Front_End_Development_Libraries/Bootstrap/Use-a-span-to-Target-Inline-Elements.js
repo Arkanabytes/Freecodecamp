@@ -56,4 +56,5 @@
     <input type="text" placeholder="cat photo URL" required>
     <button type="submit">Submit</button>
   </form>
+
 </div>
