@@ -54,6 +54,7 @@
       <div class="col-xs-6">
         <label><input type="radio" name="indoor-outdoor"> Indoor</label>
       </div>
+
       <div class="col-xs-6">
         <label><input type="radio" name="indoor-outdoor"> Outdoor</label>
       </div>
