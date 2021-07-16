@@ -68,6 +68,7 @@
          <label><input type="checkbox" name="personality"> Crazy</label>
       </div>
     </div>
+
     <input type="text" placeholder="cat photo URL" required>
     <button type="submit">Submit</button>
   </form>
