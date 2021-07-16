@@ -36,6 +36,7 @@
       <button class="btn btn-block btn-danger"><i class="fa fa-trash"></i> Delete</button>
     </div>
   </div>
+
   <p>Things cats <span class="text-danger">love:</span></p>
   <ul>
     <li>cat nip</li>
