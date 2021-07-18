@@ -19,7 +19,6 @@
     padding: 20px;
     margin: -15px;
   }
-
   .blue-box {
     background-color: blue;
     color: #fff;
