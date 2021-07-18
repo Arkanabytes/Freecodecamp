@@ -3,7 +3,6 @@
     margin-bottom: -25px;
     text-align: center;
   }
-
   .box {
     border-style: solid;
     border-color: black;
