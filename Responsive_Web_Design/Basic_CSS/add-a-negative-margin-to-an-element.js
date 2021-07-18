@@ -15,7 +15,6 @@
     background-color: yellow;
     padding: 10px;
   }
-
   .red-box {
     background-color: crimson;
     color: #fff;
@@ -29,6 +28,7 @@
     padding: 20px;
     margin: -15px;
   }
+
 </style>
 
 <div class="box yellow-box">
