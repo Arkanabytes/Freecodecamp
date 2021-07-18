@@ -9,7 +9,6 @@
     border-width: 5px;
     text-align: center;
   }
-
   .yellow-box {
     background-color: yellow;
     padding: 10px;
