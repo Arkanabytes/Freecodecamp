@@ -4,6 +4,5 @@ const MyComponent = function() {
 return(
     <div>Completed challenge!</div>
 );
-
   // Change code above this line
 }
