@@ -3,6 +3,7 @@ class MyComponent extends React.Component {
     super(props);
   }
   render() {
+    
     // change code below this line
     return (
       <div>
