@@ -11,7 +11,7 @@
  .info-important{
    @extend .info;
    background-color: magenta;
-  
+ ///////////////////
   width: 150px;
   font-size: 2em;
 }
