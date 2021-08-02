@@ -6,12 +6,12 @@
   .blue-bg {
   background-color: blue;
 }
-
-.black-bg {
+  
+  .black-bg {
   background-color: black;
 }
-
-.red-bg {
+  
+  .red-bg {
   background-color: red;
 }
 
