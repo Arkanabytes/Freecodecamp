@@ -21,7 +21,6 @@
   }
 
 </style>
-
 <div class="blue-bg"></div>
 <div class="black-bg"></div>
 <div class="red-bg"></div>
