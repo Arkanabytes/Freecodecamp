@@ -19,6 +19,7 @@
     height: 200px;
     width: 200px;
   }
+
 </style>
 
 <div class="blue-bg"></div>
