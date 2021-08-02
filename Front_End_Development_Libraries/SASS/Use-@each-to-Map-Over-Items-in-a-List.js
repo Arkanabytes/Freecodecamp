@@ -15,7 +15,6 @@
   background-color: red;
 }
 
-
   div {
     height: 200px;
     width: 200px;
