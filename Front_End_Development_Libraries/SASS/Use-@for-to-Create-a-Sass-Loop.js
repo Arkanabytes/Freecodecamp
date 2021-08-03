@@ -2,7 +2,6 @@
   @for $j from 1 through 5 {
     .text-#{$j} { font-size: 15px * $j; }
   }
-
 </style>
 
 <p class="text-1">Hello</p>
