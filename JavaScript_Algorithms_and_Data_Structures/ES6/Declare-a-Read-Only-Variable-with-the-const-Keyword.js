@@ -1,3 +1,4 @@
+//setup
 function printManyTimes(str) {
   "use strict";
   const SENTENCE = str + " is cool!";
