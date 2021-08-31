@@ -1,3 +1,4 @@
+//setup
 function copyMachine(arr, num) {
   let newArr = [];
   while (num >= 1) {
