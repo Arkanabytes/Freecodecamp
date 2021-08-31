@@ -1,3 +1,4 @@
+//setup
 let myNestedArray = [
   // Only change code below this line
   'level 1',                   /* myNestedArray[0]             */
