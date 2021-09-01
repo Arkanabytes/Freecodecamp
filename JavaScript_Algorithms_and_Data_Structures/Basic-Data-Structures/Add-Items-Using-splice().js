@@ -1,3 +1,4 @@
+//setup
 function htmlColorNames(arr) {
   // Only change code below this line
  arr.splice(0, 2, "DarkSalmon", "BlanchedAlmond");
