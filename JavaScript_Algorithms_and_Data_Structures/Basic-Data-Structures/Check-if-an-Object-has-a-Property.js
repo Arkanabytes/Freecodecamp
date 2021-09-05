@@ -18,6 +18,7 @@ let users = {
 };
 
 function isEveryoneHere(userObj) {
+  
   // Only change code below this line
   return ["Alan", "Jeff", "Sarah", "Ryan"].every(name =>
     userObj.hasOwnProperty(name)
