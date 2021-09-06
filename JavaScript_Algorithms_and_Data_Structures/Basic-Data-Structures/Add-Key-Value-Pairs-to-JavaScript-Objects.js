@@ -1,3 +1,4 @@
+//setup
 let foods = {
   apples: 25,
   oranges: 32,
