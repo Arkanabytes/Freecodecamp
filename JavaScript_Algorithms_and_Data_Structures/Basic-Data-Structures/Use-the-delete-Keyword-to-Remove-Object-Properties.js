@@ -12,5 +12,4 @@ delete foods.oranges;
 delete foods.plums;
 delete foods.strawberries;
 // Only change code above this line
-
 console.log(foods);
