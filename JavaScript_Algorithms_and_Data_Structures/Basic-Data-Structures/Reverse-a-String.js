@@ -5,4 +5,5 @@ function reverseString(str) {
     .reverse()
     .join("");
 }
+
 reverseString("hello");
