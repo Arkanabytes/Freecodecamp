@@ -9,6 +9,7 @@ let foods = {
 };
 
 function checkInventory(scannedItem) {
+  
   // change code below this line
   return foods[scannedItem];
 }
