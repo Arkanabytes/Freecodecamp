@@ -7,5 +7,4 @@ const LOCAL_FORECAST = {
 // Only change code below this line
   
 const { today: { low: lowToday, high: highToday } } = LOCAL_FORECAST;
-
 // Only change code above this line
