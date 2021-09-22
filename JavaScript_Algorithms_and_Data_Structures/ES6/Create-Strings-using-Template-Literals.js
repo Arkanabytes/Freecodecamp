@@ -13,5 +13,4 @@ function makeList(arr) {
   // change code above this line
   return failureItems;
 }
-
 const failuresList = makeList(result.failure);
