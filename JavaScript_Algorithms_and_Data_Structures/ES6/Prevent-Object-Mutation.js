@@ -1,3 +1,4 @@
+//setup
 function freezeObj() {
   const MATH_CONSTANTS = {
     PI: 3.14
