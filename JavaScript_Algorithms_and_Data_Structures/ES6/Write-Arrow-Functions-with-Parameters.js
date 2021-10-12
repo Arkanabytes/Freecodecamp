@@ -1,4 +1,4 @@
-//setup
+//setup arkanabytes 
 const myConcat = (arr1, arr2) => {
   "use strict";
   return arr1.concat(arr2);
