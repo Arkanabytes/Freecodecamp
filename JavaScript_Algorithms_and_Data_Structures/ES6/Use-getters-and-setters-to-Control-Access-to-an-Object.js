@@ -3,7 +3,6 @@ class Thermostat {
   constructor(fahrenheit) {
     this.fahrenheit = fahrenheit;
   }
-  
   get temperature() {
     return (5 / 9) * (this.fahrenheit - 32);
   }
