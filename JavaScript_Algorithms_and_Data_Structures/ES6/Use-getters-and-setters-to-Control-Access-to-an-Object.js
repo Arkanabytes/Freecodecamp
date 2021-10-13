@@ -1,3 +1,4 @@
+//setup
 class Thermostat {
   constructor(fahrenheit) {
     this.fahrenheit = fahrenheit;
