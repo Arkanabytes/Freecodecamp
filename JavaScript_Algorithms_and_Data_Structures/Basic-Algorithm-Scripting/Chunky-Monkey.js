@@ -1,3 +1,4 @@
+//setup
 function chunkArrayInGroups(arr, size) {
   if (arr.length <= size) {
     return [arr];
