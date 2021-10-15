@@ -1,6 +1,6 @@
 //setup
 function mutation(arr) {
-  return arr[1]
+   return arr[1]
     .toLowerCase()
     .split("")
     .every(function(letter) {
