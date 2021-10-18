@@ -5,5 +5,5 @@ function mutation(arr) {
        .split("")
        .every(function(letter) {
       return arr[0].toLowerCase().indexOf(letter) != -1;
-    });
+   });
 }
