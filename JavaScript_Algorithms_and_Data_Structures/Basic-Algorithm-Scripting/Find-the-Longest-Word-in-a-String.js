@@ -1,3 +1,4 @@
+//setup
 function findLongestWordLength(str) {
   let words = str.split(' ');
   let maxLength = 0;
