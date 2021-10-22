@@ -1,4 +1,4 @@
-//setup 
+//setup arkanabytes
 function booWho(bool) {
   return typeof bool === "boolean";
 }
