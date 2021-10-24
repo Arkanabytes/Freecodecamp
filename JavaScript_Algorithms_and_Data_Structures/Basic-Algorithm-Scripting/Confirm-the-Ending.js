@@ -1,4 +1,4 @@
-//setup
+//setup arkanbytes
 function confirmEnding(str, target) {
   return str.slice(-target.length) === target
 }
