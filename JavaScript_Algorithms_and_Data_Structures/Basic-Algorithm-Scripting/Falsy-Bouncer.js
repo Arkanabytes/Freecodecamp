@@ -1,4 +1,4 @@
-//setup
+//setup arkanabytes
 function bouncer(arr) {
   return arr.filter(Boolean);
 }
