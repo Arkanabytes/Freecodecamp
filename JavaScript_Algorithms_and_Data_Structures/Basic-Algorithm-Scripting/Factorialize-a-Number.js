@@ -1,4 +1,4 @@
-//setup arkanabytws
+//setup arkanabytes
 function factorialize(num, factorial = 1) {
     return num < 0 ? 1 : (
      new Array(num)
