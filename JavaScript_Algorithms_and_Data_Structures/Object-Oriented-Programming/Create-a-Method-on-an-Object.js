@@ -5,5 +5,4 @@ let dog = {
     return "This dog has " + dog.numLegs + " legs.";
   }
 };
-
 dog.sayLegs();
