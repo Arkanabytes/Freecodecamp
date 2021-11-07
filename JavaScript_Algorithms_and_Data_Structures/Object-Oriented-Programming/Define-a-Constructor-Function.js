@@ -1,3 +1,4 @@
+//setup
 function Dog() {
   this.name = "Albert";
   this.color = "blue";
