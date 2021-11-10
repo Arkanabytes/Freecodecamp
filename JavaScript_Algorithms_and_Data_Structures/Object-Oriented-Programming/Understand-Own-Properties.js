@@ -1,3 +1,4 @@
+//setup
 function Bird(name) {
   this.name = name;
   this.numLegs = 2;
