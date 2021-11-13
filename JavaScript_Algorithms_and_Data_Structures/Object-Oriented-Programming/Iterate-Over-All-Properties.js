@@ -3,7 +3,6 @@ function Dog(name) {
 }
 
 Dog.prototype.numLegs = 4;
-
 let beagle = new Dog("Snoopy");
 
 let ownProps = [];
