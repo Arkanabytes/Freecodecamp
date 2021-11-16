@@ -1,7 +1,6 @@
 function Dog(name) {
   this.name = name;
 }
-
 // Only change code below this line
 
 Dog.prototype = {
