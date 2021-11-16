@@ -4,7 +4,6 @@ function Dog(name) {
 // Only change code below this line
 Dog.prototype = {
   constructor: Dog, // Solution
-
   numLegs: 2,
   eat: function() {
     console.log("nom nom nom");
