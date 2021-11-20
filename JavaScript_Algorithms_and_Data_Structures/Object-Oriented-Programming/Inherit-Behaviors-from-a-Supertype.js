@@ -1,6 +1,5 @@
 //setup arkanabytes
 function Animal() { }
-
 Animal.prototype = {
   constructor: Animal,
   eat: function() {
