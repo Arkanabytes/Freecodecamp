@@ -1,4 +1,4 @@
-//setup
+//setup arkanabytes
 function Animal() { }
 
 Animal.prototype = {
