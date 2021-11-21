@@ -7,7 +7,6 @@ Animal.prototype = {
 };
 
 function Dog() { }
-
 // Only change code below this line
 Dog.prototype = Object.create(Animal.prototype);
 
