@@ -1,3 +1,4 @@
+//setup
 function Animal() {}
 function Bird() {}
 function Dog() {}
