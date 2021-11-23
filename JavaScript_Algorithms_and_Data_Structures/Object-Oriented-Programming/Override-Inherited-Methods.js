@@ -1,4 +1,4 @@
-//setup
+//setup arkanabytes
 function Bird() { }
 
 Bird.prototype.fly = function() { return "I am flying!"; };
