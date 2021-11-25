@@ -1,3 +1,4 @@
+//setup
 let bird = {
   name: "Donald",
   numLegs: 2
