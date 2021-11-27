@@ -1,7 +1,6 @@
 //setup arkanabytes
 function Bird() { }
 Bird.prototype.fly = function() { return "I am flying!"; };
-
 function Penguin() { }
 Penguin.prototype = Object.create(Bird.prototype);
 Penguin.prototype.constructor = Penguin;
