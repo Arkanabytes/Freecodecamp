@@ -4,4 +4,5 @@ function Dog(name, color) {
   this.color = color;
   this.numLegs = 4;
 }
+
 let terrier = new Dog("George", "White");
