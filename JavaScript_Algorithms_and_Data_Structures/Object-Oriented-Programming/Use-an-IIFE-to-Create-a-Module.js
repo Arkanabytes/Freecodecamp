@@ -1,3 +1,4 @@
+//setup
 let funModule = ( () => {
   return {
     isCuteMixin: (obj) => {
