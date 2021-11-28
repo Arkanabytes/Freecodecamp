@@ -7,6 +7,5 @@ let funModule = ( () => {
     singMixin: (obj) => {
       obj.sing = () => { console.log("Singing to an awesome tune"); }
     }
-
   }
 })();
