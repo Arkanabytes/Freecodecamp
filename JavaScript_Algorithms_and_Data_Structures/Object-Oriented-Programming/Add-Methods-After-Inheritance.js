@@ -2,7 +2,6 @@
 function Animal() { }
 Animal.prototype.eat = function() { console.log("nom nom nom"); };
 function Dog() { }
-
 // Only change code below this line
 Dog.prototype = Object.create(Animal.prototype);
 Dog.prototype.constructor = Dog;
