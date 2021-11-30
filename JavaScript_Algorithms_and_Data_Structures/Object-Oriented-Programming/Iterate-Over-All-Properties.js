@@ -6,7 +6,6 @@ Dog.prototype.numLegs = 4;
 let beagle = new Dog("Snoopy");
 let ownProps = [];
 let prototypeProps = [];
-
 // Add your code below this line
 for (let property in beagle) {
   if (Dog.hasOwnProperty(property)) {
