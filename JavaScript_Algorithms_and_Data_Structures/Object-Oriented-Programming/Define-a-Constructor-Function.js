@@ -1,4 +1,4 @@
-//Setup arkanabytes
+//Setup Arkanabytes
 function Dog() {
   this.name = "Albert";
   this.color = "blue";
