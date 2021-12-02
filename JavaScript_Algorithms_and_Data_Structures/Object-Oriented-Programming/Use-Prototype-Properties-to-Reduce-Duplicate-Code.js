@@ -1,4 +1,4 @@
-//Setup rkanabytes
+//Setup Arkanabytes
 function Dog(name) {
   this.name = name;
 }
