@@ -5,7 +5,6 @@ function Cat(name) {
 Cat.prototype = {
   constructor: Cat
 };
-
 function Bear(name) {
   this.name = name;
 }
