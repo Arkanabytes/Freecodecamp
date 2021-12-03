@@ -8,7 +8,6 @@ Cat.prototype = {
 function Bear(name) {
   this.name = name;
 }
-
 Bear.prototype = {
   constructor: Bear
 };
