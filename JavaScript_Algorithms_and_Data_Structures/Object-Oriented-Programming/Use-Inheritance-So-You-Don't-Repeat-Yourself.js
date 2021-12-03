@@ -11,7 +11,6 @@ function Bear(name) {
 Bear.prototype = {
   constructor: Bear
 };
-
 function Animal() {}
 Animal.prototype = {
   constructor: Animal,
