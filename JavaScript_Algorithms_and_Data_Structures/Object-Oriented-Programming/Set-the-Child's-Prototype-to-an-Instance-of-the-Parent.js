@@ -1,4 +1,4 @@
-//Setup arkanabytes
+//Setup Arkanabytes
 function Animal() { }
 Animal.prototype = {
   constructor: Animal,
