@@ -1,4 +1,4 @@
-//setup arkanabytes
+//Setup arkanabytes
 let bird = {
   name: "Donald",
   numLegs: 2
