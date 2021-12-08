@@ -1,4 +1,4 @@
-//Setup arkanabytes
+//Setup Arkanabytes
 let funModule = ( () => {
   return {
     isCuteMixin: (obj) => {
