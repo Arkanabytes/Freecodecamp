@@ -1,4 +1,4 @@
-//setup arkanabytes
+//Setup arkanabytes
 function House(numBedrooms) {
   this.numBedrooms = numBedrooms;
 }
