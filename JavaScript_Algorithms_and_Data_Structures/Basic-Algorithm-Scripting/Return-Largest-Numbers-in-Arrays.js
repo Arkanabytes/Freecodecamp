@@ -1,4 +1,4 @@
-//Setup
+//Setup Arkanabytes
 function largestOfFour(arr) {
     return arr.map(function(group) {
         return group.reduce(function(prev, current) {
