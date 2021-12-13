@@ -1,4 +1,4 @@
-//Setup
+//Setup Arkanabytes
 function mutation(arr) {
    return arr[1]
        .toLowerCase()
