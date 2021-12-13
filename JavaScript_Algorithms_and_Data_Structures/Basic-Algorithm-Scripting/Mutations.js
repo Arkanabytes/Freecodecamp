@@ -1,4 +1,4 @@
-//setup
+//Setup
 function mutation(arr) {
    return arr[1]
        .toLowerCase()
