@@ -1,4 +1,4 @@
-//setup
+//Setup Arkanabytes
 let users = {
   Alan: {
     age: 27,
