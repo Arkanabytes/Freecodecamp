@@ -1,4 +1,4 @@
-//setup
+//Setup
 function popShift(arr) {
   let popped = arr.pop(); // Change this line
   let shifted = arr.shift();// Change this line
