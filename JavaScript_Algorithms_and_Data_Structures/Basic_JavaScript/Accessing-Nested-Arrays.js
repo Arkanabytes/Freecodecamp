@@ -1,4 +1,4 @@
-// Setup
+// Setup Arkanabytes
 var myPlants = [
   { 
     type: "flowers",
