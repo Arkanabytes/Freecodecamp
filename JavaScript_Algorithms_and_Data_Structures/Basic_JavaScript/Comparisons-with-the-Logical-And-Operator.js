@@ -1,4 +1,4 @@
-//setup Arkanabytes
+//Setup Arkanabytes
 function testLogicalAnd(val) {
   // Only change code below this line
 
