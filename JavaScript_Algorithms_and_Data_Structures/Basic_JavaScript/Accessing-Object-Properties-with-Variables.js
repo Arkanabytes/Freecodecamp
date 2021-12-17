@@ -1,4 +1,4 @@
-// Setup
+// Setup Arkanabytes
 var testObj = {
   12: "Namath",
   16: "Montana",
