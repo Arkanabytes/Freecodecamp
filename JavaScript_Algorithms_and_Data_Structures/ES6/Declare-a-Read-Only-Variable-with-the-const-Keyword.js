@@ -1,4 +1,4 @@
-//Setup
+//Setup Arkanabytes
 function printManyTimes(str) {
   "use strict";
   const SENTENCE = str + " is cool!";
