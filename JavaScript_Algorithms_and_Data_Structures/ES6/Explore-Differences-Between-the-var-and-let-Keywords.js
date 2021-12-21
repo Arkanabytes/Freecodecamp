@@ -1,4 +1,4 @@
-//setup
+//Setup
 let catName;
 let quote;
 function catTalk() {
