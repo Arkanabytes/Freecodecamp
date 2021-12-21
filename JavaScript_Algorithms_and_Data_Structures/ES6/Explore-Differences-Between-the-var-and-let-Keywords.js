@@ -1,4 +1,4 @@
-//Setup arkanabytes
+//Setup Arkanabytes
 let catName;
 let quote;
 function catTalk() {
