@@ -1,4 +1,4 @@
-//setup arkanabytes
+//setup Arkanabytes
 function Animal() {}
 function Bird() {}
 function Dog() {}
