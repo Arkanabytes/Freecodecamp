@@ -1,4 +1,4 @@
-// setup arkanabytes
+//Setup arkanabytes
 function checkScope() {
   "use strict";
   let i = "function scope";
