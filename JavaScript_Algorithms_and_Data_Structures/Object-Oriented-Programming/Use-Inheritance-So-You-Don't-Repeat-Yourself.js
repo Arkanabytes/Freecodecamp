@@ -1,4 +1,4 @@
-//Setup arkanabytes
+//Setup Arkanabytes
 function Cat(name) {
   this.name = name;
 }
