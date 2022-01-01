@@ -1,4 +1,4 @@
-//setup arkanabytes
+//Setup arkanabytes
 function Bird(name) {
   this.name = name;
   this.numLegs = 2;
