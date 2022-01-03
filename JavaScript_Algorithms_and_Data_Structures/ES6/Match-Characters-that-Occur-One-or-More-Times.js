@@ -1,4 +1,4 @@
-//setup
+//Setup
 let difficultSpelling = "Mississippi";
 let myRegex = /s+/g; 
 // Change this line
