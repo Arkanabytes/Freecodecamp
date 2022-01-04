@@ -1,4 +1,4 @@
-//setup
+//Setup
 var myDog = {
   "name": "Happy Coder",
   "legs": 4,
