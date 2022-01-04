@@ -1,4 +1,4 @@
-//Setup
+//Setup arkanabytes
 var myDog = {
   "name": "Happy Coder",
   "legs": 4,
