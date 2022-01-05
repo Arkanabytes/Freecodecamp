@@ -1,4 +1,4 @@
-//Setup
+//Setup Arkanabytes
 function switchOfStuff(val) {
   var answer = "";
   switch (val) {
