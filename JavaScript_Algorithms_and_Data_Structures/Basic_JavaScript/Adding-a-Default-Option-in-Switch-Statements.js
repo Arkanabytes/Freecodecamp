@@ -1,4 +1,4 @@
-//setup
+//Setup
 function switchOfStuff(val) {
   var answer = "";
   switch (val) {
