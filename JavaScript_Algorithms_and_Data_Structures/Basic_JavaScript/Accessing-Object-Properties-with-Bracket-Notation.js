@@ -1,4 +1,4 @@
-// Setup
+// Setup Arkanabytes
 var testObj = {
   "entreeValue": "hamburger",
   "drinkValue": "water"
