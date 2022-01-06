@@ -1,4 +1,4 @@
-//setup
+//Setup
 function testLogicalOr(val) {
   // Only change code below this line
 
