@@ -1,4 +1,4 @@
-//Setup
+//Setup Arkanabytes 
 let foods = {
   apples: 25,
   oranges: 32,
