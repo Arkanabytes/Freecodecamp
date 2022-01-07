@@ -1,4 +1,4 @@
-//setup arkanabytes
+//Setup arkanabytes
 function getIndexToIns(arr, num) {
   return arr.filter(val => num > val).length;
 }
