@@ -1,4 +1,4 @@
-// Setup
+// Setup Arkanabytes
 var myDog = {
   "name": "Happy Coder",
   "legs": 4,
