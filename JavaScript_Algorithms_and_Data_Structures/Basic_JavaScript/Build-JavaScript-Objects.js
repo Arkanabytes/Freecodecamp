@@ -1,4 +1,4 @@
-//Setup
+//Setup Arkanabytes
 var myDog = {
 // Only change code below this line
   
