@@ -1,4 +1,4 @@
-//setup
+//Setup
 var myDog = {
 // Only change code below this line
   
