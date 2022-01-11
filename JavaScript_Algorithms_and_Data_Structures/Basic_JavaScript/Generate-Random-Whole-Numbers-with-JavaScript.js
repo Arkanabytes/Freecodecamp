@@ -1,4 +1,4 @@
-//Setup
+//Setup Arkanabytes
 function randomWholeNum() {
 
   // Only change code below this line
