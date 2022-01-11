@@ -1,3 +1,4 @@
+//Setup
 function randomWholeNum() {
 
   // Only change code below this line
