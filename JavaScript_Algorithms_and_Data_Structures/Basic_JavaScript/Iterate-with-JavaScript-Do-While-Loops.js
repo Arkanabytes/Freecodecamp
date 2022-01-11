@@ -1,4 +1,4 @@
-// Setup
+// Setup Arkanabytes
 var myArray = [];
 var i = 10;
 do {
