@@ -1,4 +1,4 @@
-//Setup
+//Setup Arkanabytes
 const HIGH_TEMPERATURES = {
   yesterday: 75,
   today: 77,
