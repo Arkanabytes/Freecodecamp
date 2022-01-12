@@ -1,3 +1,4 @@
+//Setup
 const HIGH_TEMPERATURES = {
   yesterday: 75,
   today: 77,
