@@ -1,4 +1,4 @@
-//setup
+//Setup
 class Vegetable {
   constructor(name) {
     this.name = name;
