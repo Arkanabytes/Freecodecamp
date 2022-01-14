@@ -1,4 +1,4 @@
-//Setup arkanabytes
+//Setup Arkanabytes
 const stats = {
   max: 56.78,
   standard_deviation: 4.34,
