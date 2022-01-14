@@ -1,4 +1,4 @@
-//setup
+//Setup
 const stats = {
   max: 56.78,
   standard_deviation: 4.34,
