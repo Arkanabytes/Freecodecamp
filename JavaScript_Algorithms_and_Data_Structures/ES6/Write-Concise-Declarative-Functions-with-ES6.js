@@ -1,4 +1,4 @@
-//setup arkanabytes
+//Setup arkanabytes
 const bicycle = {
   gear: 2,
   setGear(newGear) {
