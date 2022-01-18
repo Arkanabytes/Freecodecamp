@@ -1,4 +1,4 @@
-//Setup
+//Setup Arkanabytes
 function raiseToPower(b, e) {
   return Math.pow(b, e);
 }
