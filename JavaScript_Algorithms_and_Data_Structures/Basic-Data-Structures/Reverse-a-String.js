@@ -1,4 +1,4 @@
-//Setup
+//Setup Arkanabytes
 function reverseString(str) {
   return str
     .split("")
