@@ -1,4 +1,4 @@
-//Setup
+//Setup Arkanabytes
 export const uppercaseString = (string) => {
   return string.toUpperCase();
 }
