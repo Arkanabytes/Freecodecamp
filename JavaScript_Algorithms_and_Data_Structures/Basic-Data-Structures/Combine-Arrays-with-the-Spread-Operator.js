@@ -1,4 +1,4 @@
-//Setup
+//Setup arkanabytes
 function spreadOut() {
   
   let fragment = ['to', 'code'];
