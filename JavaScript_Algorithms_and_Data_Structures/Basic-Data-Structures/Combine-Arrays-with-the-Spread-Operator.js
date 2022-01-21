@@ -1,4 +1,4 @@
-//setup
+//Setup
 function spreadOut() {
   
   let fragment = ['to', 'code'];
