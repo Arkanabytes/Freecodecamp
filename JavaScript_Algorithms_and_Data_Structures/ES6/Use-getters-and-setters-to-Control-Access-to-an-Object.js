@@ -1,4 +1,4 @@
-//Setup
+//Setup Arkanabytes
 class Thermostat {
   constructor(fahrenheit) {
     this.fahrenheit = fahrenheit;
