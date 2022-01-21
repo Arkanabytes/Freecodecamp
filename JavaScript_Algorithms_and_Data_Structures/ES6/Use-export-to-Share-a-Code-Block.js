@@ -1,4 +1,4 @@
-//setup
+//Setup
 export const uppercaseString = (string) => {
   return string.toUpperCase();
 }
