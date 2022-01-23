@@ -1,4 +1,4 @@
-//setup
+//Setup
 var myStorage = {
   "car": {
     "inside": {
