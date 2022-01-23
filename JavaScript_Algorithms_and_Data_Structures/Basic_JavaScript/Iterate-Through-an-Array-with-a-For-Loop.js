@@ -1,4 +1,4 @@
-// Setup
+//Setup
 var myArr = [ 2, 3, 4, 5, 6];
 var total = 0;
 
