@@ -1,4 +1,4 @@
-//Setup
+//Setup Arkanabytes
 var myNoun = "dog";
 var myAdjective = "big";
 var myVerb = "ran";
