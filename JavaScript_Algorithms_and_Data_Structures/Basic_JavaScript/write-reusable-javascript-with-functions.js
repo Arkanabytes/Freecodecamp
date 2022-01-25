@@ -1,4 +1,4 @@
-//setup
+//Setup
 function reusableFunction() {
   console.log("Hi World");
 }
