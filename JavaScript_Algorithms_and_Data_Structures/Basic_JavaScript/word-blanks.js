@@ -1,4 +1,4 @@
-//setup
+//Setup
 var myNoun = "dog";
 var myAdjective = "big";
 var myVerb = "ran";
