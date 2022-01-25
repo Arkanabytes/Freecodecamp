@@ -1,4 +1,4 @@
-//Setup
+//Setup Arkanabytes
 function trueOrFalse(wasThatTrue) {
  if (wasThatTrue) {
      return "Yes, that was true";
