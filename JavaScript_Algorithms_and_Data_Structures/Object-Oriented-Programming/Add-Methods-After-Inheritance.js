@@ -1,4 +1,4 @@
-//Setup arkanabytes
+//Setup Arkanabytes
 function Animal() { }
 Animal.prototype.eat = function() { console.log("nom nom nom"); };
 function Dog() { }
