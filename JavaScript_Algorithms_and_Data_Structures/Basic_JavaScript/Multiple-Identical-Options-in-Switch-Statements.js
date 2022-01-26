@@ -1,4 +1,4 @@
-//setup
+//Setup
 function sequentialSizes(val) {
   var answer = "";
   switch(val) {
