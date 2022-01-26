@@ -1,4 +1,4 @@
-//setup Arkanabytes
+//Setup Arkanabytes
 let dog = {
   name: "Spot",
   numLegs: 4,
