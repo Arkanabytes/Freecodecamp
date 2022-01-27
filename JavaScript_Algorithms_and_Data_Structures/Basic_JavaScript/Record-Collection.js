@@ -1,4 +1,4 @@
-// Setup
+//Setup Arkanabytes
 var recordCollection = {
   2548: {
     albumTitle: 'Slippery When Wet',
