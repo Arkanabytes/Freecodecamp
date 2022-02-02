@@ -1,4 +1,4 @@
-//Setup
+//Setup Arkanabytes
 function forecast(arr) {
   
   // Only change code below this line
