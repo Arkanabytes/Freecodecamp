@@ -1,4 +1,4 @@
-//setup
+//Setup
 function forecast(arr) {
   
   // Only change code below this line
