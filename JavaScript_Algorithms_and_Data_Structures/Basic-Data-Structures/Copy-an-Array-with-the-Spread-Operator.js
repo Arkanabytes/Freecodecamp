@@ -1,4 +1,4 @@
-//Setup
+//Setup Arkanabytes
 function copyMachine(arr, num) {
   
   let newArr = [];
