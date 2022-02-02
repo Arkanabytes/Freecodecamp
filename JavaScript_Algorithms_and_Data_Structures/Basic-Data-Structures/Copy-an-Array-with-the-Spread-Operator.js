@@ -1,4 +1,4 @@
-//setup
+//Setup
 function copyMachine(arr, num) {
   
   let newArr = [];
