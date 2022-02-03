@@ -25,7 +25,6 @@
           html += "</div><br>";
 
         });
-
         // Add your code above this line
         document.getElementsByClassName('message')[0].innerHTML = html;
       };
