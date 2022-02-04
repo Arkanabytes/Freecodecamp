@@ -7,6 +7,5 @@ function testLogicalOr(val) {
   // Only change code above this line
   return "Inside";
 }
-
 // Change this value to test
 testLogicalOr(15);
