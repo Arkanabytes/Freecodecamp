@@ -10,5 +10,4 @@
 </script>
 <h4>You are here:</h4>
 <div id="data">
-
 </div>
