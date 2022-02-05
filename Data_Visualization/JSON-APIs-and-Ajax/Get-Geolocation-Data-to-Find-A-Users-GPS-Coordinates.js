@@ -5,7 +5,6 @@
     document.getElementById('data').innerHTML="latitude: " + position.coords.latitude + "<br>longitude: " + position.coords.longitude;
   });
 }
-
   // Add your code above this line
 </script>
 <h4>You are here:</h4>
