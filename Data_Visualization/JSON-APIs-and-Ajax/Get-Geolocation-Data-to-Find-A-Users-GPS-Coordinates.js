@@ -1,3 +1,4 @@
+//setup
 <script>
   // Add your code below this line
     if (navigator.geolocation){
