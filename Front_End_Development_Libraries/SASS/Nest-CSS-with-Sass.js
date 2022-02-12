@@ -1,4 +1,4 @@
-//Setup
+//Setup Arkbabytes
 <style type='text/sass'>
   .blog-post { 
     h1 {
