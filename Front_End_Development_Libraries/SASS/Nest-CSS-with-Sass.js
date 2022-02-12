@@ -1,3 +1,4 @@
+//Setup
 <style type='text/sass'>
   .blog-post { 
     h1 {
