@@ -1,4 +1,4 @@
-//setup Arkanabytes
+//Setup Arkanabytes
 <style type='text/scss'>
   @for $j from 1 through 5 {
     .text-#{$j} { font-size: 15px * $j; }
