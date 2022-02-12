@@ -1,4 +1,4 @@
-//setup
+//Setup
 <style type='text/scss'>
   $text-color: red;
 
