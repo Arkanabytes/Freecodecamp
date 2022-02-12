@@ -14,7 +14,6 @@
     }
   }
 
-
   #box {
     width: 150px;
     height: 150px;
