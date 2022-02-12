@@ -1,4 +1,4 @@
-//Setup
+//Setup Arkanabytes
 <style type='text/scss'>
 @each $color in blue, black, red {
   .#{$color}-text {color: $color;}
