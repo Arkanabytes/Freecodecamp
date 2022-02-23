@@ -5,5 +5,4 @@ var myDog = {
   "tails": 1,
   "friends": ["freeCodeCamp Campers"]
 };
-
 myDog.bark = "guau";
