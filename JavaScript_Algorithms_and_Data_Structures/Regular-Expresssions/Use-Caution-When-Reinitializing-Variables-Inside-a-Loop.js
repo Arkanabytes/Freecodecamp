@@ -1,3 +1,4 @@
+//Setup
 function zeroArray(m, n) {
   let newArray = [];
   for (let i = 0; i < m; i++) {
