@@ -1,4 +1,4 @@
-//Setup
+//Setup Arkanabytes
 <body>
   <script>
     const positionData = [[1, 7, -4],[6, 3, 8],[2, 8, 3]]
