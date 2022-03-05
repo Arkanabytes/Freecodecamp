@@ -1,4 +1,5 @@
 //Setup Arkanabytes
 let myString = "freeCodeCamp";
-let fccRegex = /freeCodeCamp/i; // Change this line
+// Change this line
+let fccRegex = /freeCodeCamp/i; 
 let result = fccRegex.test(myString);
