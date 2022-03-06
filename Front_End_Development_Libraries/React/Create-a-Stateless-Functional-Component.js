@@ -1,3 +1,4 @@
+//Setup
 const MyComponent = function() {
   
   // Change code below this line
