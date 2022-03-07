@@ -7,6 +7,7 @@ class App extends React.Component{
     return <div/>
   }
 };
+  
 // change code below this line
 ReactDOMServer.renderToString(<App />);
 // change code below this line
