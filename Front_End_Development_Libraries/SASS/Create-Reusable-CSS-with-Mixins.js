@@ -1,4 +1,4 @@
-//Setup
+//Setup Arkanabytes
 <style type='text/scss'>
 
   @mixin border-radius($radius){
