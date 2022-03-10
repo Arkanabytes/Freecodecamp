@@ -9,7 +9,6 @@
         font-size: 20px;
     } 
   }  
-
 </style>
 <div class="blog-post">
   <h1>Blog Title</h1>
