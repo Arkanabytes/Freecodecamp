@@ -1,4 +1,4 @@
-//Setup
+//Setup Arkanabytes
 function countOnline(usersObj) {
   
   // Only change code below this line
