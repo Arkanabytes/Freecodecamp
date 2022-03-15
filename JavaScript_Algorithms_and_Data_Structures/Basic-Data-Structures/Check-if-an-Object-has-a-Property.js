@@ -25,5 +25,4 @@ function isEveryoneHere(userObj) {
   );
 }
   // Only change code above this line
-
 console.log(isEveryoneHere(users));
