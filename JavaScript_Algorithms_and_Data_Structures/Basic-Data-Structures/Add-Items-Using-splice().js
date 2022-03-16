@@ -1,4 +1,4 @@
-//setup
+//Setup
 function htmlColorNames(arr) {
   
   // Only change code below this line
