@@ -1,4 +1,4 @@
-//Setup
+//Setup Arkanabytes
 function htmlColorNames(arr) {
   
   // Only change code below this line
