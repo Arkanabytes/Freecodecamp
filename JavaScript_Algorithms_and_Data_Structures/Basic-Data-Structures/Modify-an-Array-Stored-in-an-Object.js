@@ -1,4 +1,4 @@
-//setup
+//Setup
 let user = {
   name: 'Kenneth',
   age: 28,
