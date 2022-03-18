@@ -1,4 +1,4 @@
-//setup
+//Setup
 let userActivity = {
   id: 23894201352,
   date: 'January 1, 2017',
