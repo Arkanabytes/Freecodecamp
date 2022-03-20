@@ -1,4 +1,4 @@
-//setup
+//Setup
 function mixedNumbers(arr) {
   
   // change code below this line
