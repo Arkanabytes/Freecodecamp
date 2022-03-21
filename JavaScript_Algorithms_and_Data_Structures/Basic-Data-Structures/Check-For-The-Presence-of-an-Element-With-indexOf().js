@@ -1,4 +1,5 @@
 //Setup Arkanabytes
+
 function quickCheck(arr, elem) {
   return arr.indexOf(elem) != -1;
 }
