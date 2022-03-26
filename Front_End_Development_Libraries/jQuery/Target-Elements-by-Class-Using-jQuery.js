@@ -1,4 +1,4 @@
-//Setup
+//Setup Arkanabytes
 <script>
   $(document).ready(function() {
     $(".well").addClass("animated bounce");
