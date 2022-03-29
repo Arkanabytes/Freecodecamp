@@ -1,3 +1,4 @@
+<!-- Only change code above this line -->
 <script>
   $(document).ready(function() {
     $("#target1").css("color", "red");
