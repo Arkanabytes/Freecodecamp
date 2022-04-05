@@ -1,4 +1,4 @@
-//bootstrap Setup
+//bootstrap Setup Arkanabytes
 <div class='container-fluid'>
   <h3 class='text-primary text-center'>jQuery Playground</h3>
   <div class='row'>
