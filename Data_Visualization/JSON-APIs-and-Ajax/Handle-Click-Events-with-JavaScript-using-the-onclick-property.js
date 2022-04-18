@@ -1,3 +1,4 @@
+//Setup
 <script>
   document.addEventListener('DOMContentLoaded', function(){
     // Add your code below this line
