@@ -1,4 +1,4 @@
-//Setup
+//Setup Arkanabytes
 <script>
   document.addEventListener('DOMContentLoaded', function(){
     document.getElementById('sendMessage').onclick = function(){
